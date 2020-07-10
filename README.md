@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
--  Twitter: [@rty2423](https://twitter.com/rty2423)
-- <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> LinkedIn: [/rty2423](https://linkedin.com/in/rty2423)
-- 👨‍💻 Writings: [Twitter Moment](https://twitter.com/i/events/1269547277791703041?s=20)
-- ✉ Mail: [Send a Mail](rty2423@outlook.com)
-- <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> Facebook: [@rty2423](www.facebook.com/rty2423) 
-- <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> Instagram: [the_rohit_yadav_](www.instagram.com/the_rohit_yadav_)
-- <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> Spotify: [Rohit Yadav](https://open.spotify.com/user/g1y18fr4c252lqp2qa9o6gb13?si=t_JWnfrxTDWR0v2vkJnGBA)
-- 🕵️‍♂️ More ways to connect: [Website](https://rohityadav.azurewebsites.net)
+- Twitter: [@rty2423](https://twitter.com/rty2423)
+- LinkedIn: [/rty2423](https://linkedin.com/in/rty2423)
+- Writings: [Twitter Moment](https://twitter.com/i/events/1269547277791703041?s=20)
+- Mail: [Send a Mail](rty2423@outlook.com)
+- Facebook: [@rty2423](www.facebook.com/rty2423) 
+- Instagram: [the_rohit_yadav_](www.instagram.com/the_rohit_yadav_)
+- Spotify: [Rohit Yadav](https://open.spotify.com/user/g1y18fr4c252lqp2qa9o6gb13?si=t_JWnfrxTDWR0v2vkJnGBA)
+- More ways to connect: [Website](https://rohityadav.azurewebsites.net)
 </div>
