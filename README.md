@@ -1,4 +1,3 @@
-
 <!--
 **RohitY24/RohitY24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-<h1><b>Hey there, I am Rohit Yadav 🙋‍♂️</b></h1>
-<p><img width=50% src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif"></p>
-<h2><b>I am a Microsoft Student Learn Ambassador exploring the best in technology. I am currently exploring Microsoft Azure, Data Sciences and Web development...</b></h2>
+<h1 align="center"><b>Hey there, I am Rohit Yadav 🙋‍♂️</b></h1>
+<p align="center"><img width=50% src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif"></p>
+<h2 align="center"><b>I am a Microsoft Student Learn Ambassador exploring the best in technology. I am currently exploring Microsoft Azure, Data Sciences and Web development...✨<br>Ask me anything about technology, will try my best to asist you 😊!</b></h2>
 
-### Connect with me:
+
+### Let's connect:
 
 - Twitter: [@rty2423](https://twitter.com/rty2423)
 - LinkedIn: [/rty2423](https://linkedin.com/in/rty2423)
@@ -30,4 +29,3 @@ Here are some ideas to get you started:
 - Instagram: [the_rohit_yadav_](www.instagram.com/the_rohit_yadav_)
 - Spotify: [Rohit Yadav](https://open.spotify.com/user/g1y18fr4c252lqp2qa9o6gb13?si=t_JWnfrxTDWR0v2vkJnGBA)
 - More ways to connect: [Website](https://rohityadav.azurewebsites.net)
-</div>
